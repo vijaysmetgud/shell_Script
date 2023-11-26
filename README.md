@@ -74,17 +74,6 @@ do
 done
 ```
 
-### sample:2
-```bash
-#!/bin/bash
-
-# Use brace expansion to generate a list of numbers from 1 to 5
-for num in {1..5}
-do
-  echo "Number: $num"
-done
-```
-
 ### sample:3
 ```bash
 #!/bin/bash
